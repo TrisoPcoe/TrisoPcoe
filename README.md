@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there, I'm Noah!
+## About me
+Hey there, I'm Noah and I'm a software developer who makes software for things like Minecraft and other things, I've made my own simple games before, they never really took off but they were fun to make.
+## What programming languages do I know?
+I know the following programming languages:
 
-<!--
-**TrisoPcoe/TrisoPcoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Skript](https://github.com/SkriptLang)
+- [Python](https://python.org)
+- Batch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also know a little bit of JavaScript, but not much - I plan on learning JS in the future though.
+## Social Media
+If you would like to find my social media pages, you can click [here](https://pcoe.link) to find a whole list.
+## Contact
+I don't currently have a contact email, but feel free to send me a message on the social media platforms that I have accounts on.
